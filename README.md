@@ -12,8 +12,14 @@
 </p>
 <div align="center">
 <hr>
-
+ 
+```🧑🏾‍💻| [DEV] SOARES```
+  
+<br>
+ 
 ```👨🏾‍💻| ADS student at SENAC-DF```
+  
+````⚽| Boldness and joy````
 <br><br>
   
 ```📀| Learning:```
@@ -27,21 +33,24 @@
  
 <hr width="50%">
 
-</div> <div align="center">
+</div>
+  
+<div style="text-align: justify;" align="center">
   
 ```🎮| Hobby - Games``` 
-<br><br>
-<img width="150px" align= "center" src="Counter_Strike.png" alt="Counter_Strike_Logo">
-<img width="90px" align= "center" src="Fifa.svf" alt="Fifa_Logo">
-<img width="90px" align= "center" src="Call_of_Duty.png" alt="Cod_Logo">
-<img width="90px" align= "center" src="minecraft.png" alt="Minecraft_Logo">
+<br>
+
+<img width="150px" align= "center" src="img/Counter_Strike.png" alt="Counter_Strike_Logo">
+<img width="50px" align= "center" src="img/Fifa.svg" alt="Fifa_Logo">ㅤ
+<img width="90px" align= "center" src="img/Call_Of_Duty.png" alt="Cod_Logo">
+<img width="90px" align= "center" src="img/minecraft.png" alt="Minecraft_Logo">
 
 
   
 ```Platforms:```
 
-<img align="center" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox_Logo">
-<img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Xbox_Logo">
+<img align="center" src="img/Xbox.svg" alt="Xbox_Logo">
+<img align="center" src="img/Steam.svg" alt="Steam_Logo">
 
 
 </div>
