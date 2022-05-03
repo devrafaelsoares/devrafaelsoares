@@ -31,9 +31,11 @@
   
 ```🎮| Hobby - Games``` 
 <br><br>
-<img width="150px" align= "center" src="https://www.pngplay.com/wp-content/uploads/10/Counter-Strike-1.6-Logo-PNG-HD-Images.png" alt="Counter_Strike_Logo">
-<img width="90px" align= "center" src="https://logosmarcas.net/wp-content/uploads/2021/02/Call-of-Duty-Logo.png" alt="Fifa_Logo">
-<img width="90px" align= "center" src="https://logosmarcas.net/wp-content/uploads/2020/04/Minecraft-Logo.png" alt="Fifa_Logo">
+<img width="150px" align= "center" src="Counter_Strike.png" alt="Counter_Strike_Logo">
+<img width="90px" align= "center" src="Fifa.svf" alt="Fifa_Logo">
+<img width="90px" align= "center" src="Call_of_Duty.png" alt="Cod_Logo">
+<img width="90px" align= "center" src="minecraft.png" alt="Minecraft_Logo">
+
 
   
 ```Platforms:```
