@@ -7,7 +7,7 @@
 <!-- Apresentação -->
   
 <p align="center"> 
-  Me chamo Rafael Henrique. Gosto de jogos e sou mais um usuário a se andentrar ao mundo do desenvolvimento e da programação. 
+  Eu me chamo Rafael Henrique. Gosto de jogos e sou mais um usuário a se andentrar ao mundo do desenvolvimento e da programação. 
   Vejo os códigos como uma solução e não como uma complicação.
 </p>
 <div align="center">
