@@ -13,7 +13,7 @@
 <div align="center">
 <hr>
  
-```🧑🏾‍💻| [DEV] SOARES```
+```👨🏾‍💻| [DEV] SOARES```
   
 <br>
  
