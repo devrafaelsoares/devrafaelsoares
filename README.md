@@ -55,4 +55,3 @@
 
 </div>
 
-  ![Snake animation](https://github.com/soaresgg10/soaresgg10/blob/output/github-contribution-grid-snake.svg)
