@@ -1,7 +1,7 @@
 <body style="font-size: 10px; font-family: Verdana, Geneva, Tahoma, sans-serif;">
 <h2 align="center">
   
- Salve galera👾
+ Salve galera🥸
 
 </h2>
 <!-- Apresentação -->
