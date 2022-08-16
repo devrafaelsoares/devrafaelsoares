@@ -1,7 +1,7 @@
 <body style="font-size: 10px; font-family: Verdana, Geneva, Tahoma, sans-serif;">
 <h2 align="center">
   
- Salve galera🥸
+ Eae galera🥸
 
 </h2>
 <!-- Apresentação -->
@@ -26,11 +26,9 @@
 <img style="width: 20px;" align= "center" src="img/Html.svg" alt="Html_Logo"> <img style="width: 20px;" align= "center" src="img/CSS.svg" alt="CSS_Logo"> 
 <img style="width: 20px;" align= "center" src="img/JS.svg" alt="JS_Logo"> <img style="width: 20px;" align= "center" src="img/Java.svg" alt="Java_Logo">
 
-  
-```💻| User of:```
-<img width= "20px" align= "center" src="img/Windows.svg" alt="Windows_Logo"> <img style="width: 20px;" align= "center" src="img/debian.svg" alt="debian_Logo"> 
+`💻| User of:`
+<img width= "20px" align= "center" src="img/Windows.svg" alt="Windows_Logo"> <img style="width: 20px;" align= "center" src="img/debian.svg" alt="debian_Logo">
 
- 
 <hr width="50%">
 
 </div>
@@ -45,15 +43,11 @@
 <img width="90px" align= "center" src="img/Call_Of_Duty.png" alt="Cod_Logo">
 <img width="90px" align= "center" src="img/minecraft.png" alt="Minecraft_Logo">
 
-
-  
-```Platforms:```
+`Platforms:`
 
 <img align="center" src="img/Xbox.svg" alt="Xbox_Logo">
 <img align="center" src="img/Steam.svg" alt="Steam_Logo">
 
-
 </div>
   
 ![Snake animation](https://github.com/soaresgg10/soaresgg10/blob/output/github-contribution-grid-snake.svg)
-
