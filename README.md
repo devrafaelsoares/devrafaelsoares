@@ -23,7 +23,7 @@
 
 [![image](img/python.png)](https://www.w3schools.com/python/) [![image](img/php.png)](https://www.w3schools.com/php/) [![image](img/nodejs.png)](https://www.w3schools.com/nodejs/)
 
-### ⚙️ | Sistema Operacionais:
+### ⚙️ | Sistemas Operacionais:
 
 ![image](img/linux.png) ![image](img/windows.png)
 
