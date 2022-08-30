@@ -6,6 +6,7 @@
 <img src="/img/code.gif" width="250px" align="right">
 
 💻 | _Estudante de Análise e Desenvolvimento de Sistema_.
+  
 🧢 | `console.log('Apreciador de códigos.')`
 
 📚 | Gosto de aprender e ensinar.
