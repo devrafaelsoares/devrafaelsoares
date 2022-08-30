@@ -32,22 +32,5 @@
 <hr width="50%">
 
 </div>
-  
-<div style="text-align: justify;" align="center">
-  
-```🎮| Hobby - Games``` 
-<br>
 
-<img width="150px" align= "center" src="img/Counter_Strike.png" alt="Counter_Strike_Logo">
-<img width="50px" align= "center" src="img/Fifa.svg" alt="Fifa_Logo">ㅤ
-<img width="90px" align= "center" src="img/Call_Of_Duty.png" alt="Cod_Logo">
-<img width="90px" align= "center" src="img/minecraft.png" alt="Minecraft_Logo">
-
-`Platforms:`
-
-<img align="center" src="img/Xbox.svg" alt="Xbox_Logo">
-<img align="center" src="img/Steam.svg" alt="Steam_Logo">
-
-</div>
-  
 ![Snake animation](https://github.com/soaresgg10/soaresgg10/blob/output/github-contribution-grid-snake.svg)
