@@ -1,36 +1,29 @@
-<body style="font-size: 10px; font-family: Verdana, Geneva, Tahoma, sans-serif;">
-<h2 align="center">
-  
- Eae galera🥸
+<body>
+<h1>Hello guys 👋​, I'm Rafael</h1>
 
-</h2>
-<!-- Apresentação -->
-  
-<p align="center"> 
-  Me chamo Rafael Henrique. Gosto de jogos e sou mais um usuário a se andentrar ao mundo do desenvolvimento e da programação. 
-  Vejo os códigos como uma solução e não como uma complicação.
-</p>
-<div align="center">
-<hr>
- 
-```👨🏾‍💻| [DEV] SOARES```
-  
-<br>
- 
-```👨🏾‍💻| ADS student at SENAC-DF```
-  
-````⚽| Boldness and joy````
-<br><br>
-  
-```📀| Learning:```
-<img style="width: 20px;" align= "center" src="img/Html.svg" alt="Html_Logo"> <img style="width: 20px;" align= "center" src="img/CSS.svg" alt="CSS_Logo"> 
-<img style="width: 20px;" align= "center" src="img/JS.svg" alt="JS_Logo"> <img style="width: 20px;" align= "center" src="img/Java.svg" alt="Java_Logo">
+### 👨🏽‍💻 Sobre mim:
 
-`💻| User of:`
-<img width= "20px" align= "center" src="img/Windows.svg" alt="Windows_Logo"> <img style="width: 20px;" align= "center" src="img/debian.svg" alt="debian_Logo">
+<img src="/img/code.gif" width="250px" align="right">
 
-<hr width="50%">
+💻 | _Estudante de Análise e Desenvolvimento de Sistema_.
+🧢 | `console.log('Apreciador de códigos.')`
 
-</div>
+📚 | Gosto de aprender e ensinar.
 
-![Snake animation](https://github.com/soaresgg10/soaresgg10/blob/output/github-contribution-grid-snake.svg)
+🗿 | A persistência é o caminho do êxito.
+
+[![image](img/linkedin.png)](https://www.linkedin.com/in/rafael-henrique-soares-de-freitas-2a667a23a/) [![image](img/discord.png)]()
+
+### 💡 Habilidades técnicas:
+
+[![image](img/html5.png)](https://www.w3schools.com/html/) [![image](img/css3.png)](https://www.w3schools.com/css/) [![image](img/javascript.png)](https://www.w3schools.com/js/default.asp) [![image](img/mysql.png)](https://www.w3schools.com/mysql/) [![image](img/git.png)]()
+
+### 📝 | Estudando:
+
+[![image](img/python.png)](https://www.w3schools.com/python/) [![image](img/php.png)](https://www.w3schools.com/php/) [![image](img/nodejs.png)](https://www.w3schools.com/nodejs/)
+
+### ⚙️ | Sistema Operacionais:
+
+![image](img/linux.png) ![image](img/windows.png)
+
+</body>
