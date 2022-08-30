@@ -6,6 +6,7 @@
 <img src="/img/code.gif" width="250px" align="right">
 
 💻 | _Estudante de Análise e Desenvolvimento de Sistema_.
+  
 🧢 | `console.log('Apreciador de códigos.')`
 
 📚 | Gosto de aprender e ensinar.
@@ -22,7 +23,7 @@
 
 [![image](img/python.png)](https://www.w3schools.com/python/) [![image](img/php.png)](https://www.w3schools.com/php/) [![image](img/nodejs.png)](https://www.w3schools.com/nodejs/)
 
-### ⚙️ | Sistema Operacionais:
+### ⚙️ | Sistemas Operacionais:
 
 ![image](img/linux.png) ![image](img/windows.png)
 
