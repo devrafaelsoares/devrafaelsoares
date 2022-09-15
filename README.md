@@ -6,7 +6,7 @@
 <img src="/img/code.gif" width="250px" align="right">
 
 💻 | _Estudante de Análise e Desenvolvimento de Sistema_.
-  
+
 🧢 | `console.log('Apreciador de códigos.')`
 
 📚 | Gosto de aprender e ensinar.
@@ -26,5 +26,7 @@
 ### ⚙️ | Sistemas Operacionais:
 
 ![image](img/linux.png) ![image](img/windows.png)
+
+![Snake animation](https://github.com/soaresgg10/soaresgg10/blob/output/github-contribution-grid-snake.svg)
 
 </body>
