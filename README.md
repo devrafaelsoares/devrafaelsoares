@@ -17,11 +17,11 @@
 
 ### 💡 Habilidades técnicas:
 
-[![image](img/html5.png)](https://www.w3schools.com/html/) [![image](img/css3.png)](https://www.w3schools.com/css/) [![image](img/javascript.png)](https://www.w3schools.com/js/default.asp) [![image](img/mysql.png)](https://www.w3schools.com/mysql/) [![image](img/git.png)]()
+[![image](img/html5.png)](https://www.w3schools.com/html/) [![image](img/css3.png)](https://www.w3schools.com/css/) [![image](img/javascript.png)](https://www.w3schools.com/js/default.asp) [![image](img/mysql.png)](https://www.w3schools.com/mysql/) [![image](img/git.png)]() [![image](img/php.png)](https://www.w3schools.com/php/) [![image](img/nodejs.png)](https://www.w3schools.com/nodejs/)
 
 ### 📝 | Estudando:
 
-[![image](img/python.png)](https://www.w3schools.com/python/) [![image](img/php.png)](https://www.w3schools.com/php/) [![image](img/nodejs.png)](https://www.w3schools.com/nodejs/)
+[![image](img/python.png)](https://www.w3schools.com/python/)
 
 ### ⚙️ | Sistemas Operacionais:
 
