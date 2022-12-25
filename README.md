@@ -23,10 +23,6 @@
 
 [![image](img/python.png)](https://www.w3schools.com/python/)
 
-### ⚙️ | Sistemas Operacionais:
-
-![image](img/linux.png) ![image](img/windows.png)
-
 ![Snake animation](https://github.com/soaresgg10/soaresgg10/blob/output/github-contribution-grid-snake.svg)
 
 </body>
