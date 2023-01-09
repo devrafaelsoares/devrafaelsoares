@@ -23,8 +23,7 @@
 
 [![image](img/python.png)](https://www.w3schools.com/python/)
 
-![](https://github.com/soaresgg10/soaresgg10/raw/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/soaresgg10/soaresgg10/blob/output/github-contribution-grid-snake.svg)
 
 </body>
 
