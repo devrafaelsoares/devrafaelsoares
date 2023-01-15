@@ -19,14 +19,6 @@
 
 # [![image](img/html5.png)](https://www.w3schools.com/html/) [![image](img/css3.png)](https://www.w3schools.com/css/) [![image](img/javascript.png)](https://www.w3schools.com/js/default.asp) [![image](img/mysql.png)](https://www.w3schools.com/mysql/) [![image](img/git.png)]()[![image](img/nodejs.png)](https://www.w3schools.com/nodejs/) [![image](img/Express.svg)](https://expressjs.com/pt-br/) [![image](img/Bootstrap.svg)](https://getbootstrap.com/) [![image](img/MongoDB.svg)](https://www.mongodb.com/docs/)[![image](img/python.png)](https://www.w3schools.com/python/) [![image](img/docker.svg)](https://www.docker.com/) [![image](img/npm.svg)](https://www.npmjs.com/) [![image](img/react.svg)](https://pt-br.reactjs.org/)
 
-[![image](img/html5.png)](https://www.w3schools.com/html/) [![image](img/css3.png)](https://www.w3schools.com/css/) [![image](img/javascript.png)](https://www.w3schools.com/js/default.asp) [![image](img/mysql.png)](https://www.w3schools.com/mysql/) [![image](img/git.png)]() [![image](img/php.png)](https://www.w3schools.com/php/) [![image](img/nodejs.png)](https://www.w3schools.com/nodejs/) [![image](img/Express.svg)](https://expressjs.com/pt-br/) [![image](img/Bootstrap.svg)](https://getbootstrap.com/) [![image](img/MongoDB.svg)](https://www.mongodb.com/docs/) [![image](img/Linux.svg)](https://www.linux.org/pages/download/)
-
-### 📝 | Estudando:
-
-[![image](img/python.png)](https://www.w3schools.com/python/)
-
-> > > > > > > b2f4c70444233b31da65656f2086907f7676bd62
-
 ![Snake animation](https://github.com/soaresgg10/soaresgg10/blob/output/github-contribution-grid-snake.svg)
 
 </body>
