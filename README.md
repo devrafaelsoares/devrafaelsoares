@@ -15,7 +15,7 @@
 
 ### 💡 Habilidades técnicas:
 
-<div style="display:flex; gap:1em; align-items:center;">
+<div style="display:flex; gap:1.5em; align-items:center;">
     <img src="img/typescript.png" width="40px">
     <img src="img/postgresql.png" width="40px">
     <img src="img/mysql.png" width="40px">    
