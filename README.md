@@ -33,7 +33,7 @@
     &nbsp;&nbsp;&nbsp;
 </div>
 
-### 📱 Rede Sociais:
+### 📱 Redes Sociais:
 
 <div>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
