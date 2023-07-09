@@ -35,10 +35,12 @@
 
 ### 📱 Rede Sociais:
 
-<a href="https://www.linkedin.com/in/rafael-henrique-soares-de-freitas-2a667a23a/" title="Linkedin | Rafael Henrique">
+<div>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="img/linkedin.png" width="40px">
-</a>
+    <a href="https://www.linkedin.com/in/rafael-henrique-soares-de-freitas-2a667a23a/" title="Linkedin | Rafael Henrique">
+        <img src="img/linkedin.png" width="40px">
+    </a>
+</div>
 
 ![Snake animation](https://github.com/soaresgg10/soaresgg10/blob/output/github-contribution-grid-snake.svg)
 
