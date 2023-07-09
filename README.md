@@ -3,7 +3,7 @@
 
 ### 👨🏽‍💻 Sobre mim:
 
-<img src="/img/code.gif" width="250px" align="right">
+<img src="img/code.gif" width="250px" align="right">
 
 💻 | _Estudante de Análise e Desenvolvimento de Sistema_.
 
@@ -13,11 +13,23 @@
 
 🗿 | A persistência é o caminho do êxito.
 
-[![image](img/linkedin.png)](https://www.linkedin.com/in/rafael-henrique-soares-de-freitas-2a667a23a/) [![image](img/discord.png)]()
-
 ### 💡 Habilidades técnicas:
 
-# [![image](img/html5.png)](https://www.w3schools.com/html/) [![image](img/css3.png)](https://www.w3schools.com/css/) [![image](img/javascript.png)](https://www.w3schools.com/js/default.asp) [![image](img/mysql.png)](https://www.w3schools.com/mysql/) [![image](img/git.png)]()[![image](img/nodejs.png)](https://www.w3schools.com/nodejs/) [![image](img/Express.svg)](https://expressjs.com/pt-br/) [![image](img/Bootstrap.svg)](https://getbootstrap.com/) [![image](img/MongoDB.svg)](https://www.mongodb.com/docs/)[![image](img/python.png)](https://www.w3schools.com/python/) [![image](img/docker.svg)](https://www.docker.com/) [![image](img/npm.svg)](https://www.npmjs.com/) [![image](img/react.svg)](https://pt-br.reactjs.org/) [![image](img/linux.svg)](https://pt.wikipedia.org/wiki/Linux)
+<div style="display:flex; gap:1em; align-items:center;">
+    <img src="img/typescript.png" width="40px">
+    <img src="img/postgresql.png" width="40px">
+    <img src="img/mysql.png" width="40px">    
+    <img src="img/java.png" width="40px">
+    <img src="img/node-js.png" width="40px">
+    <img src="img/linux.png" width="40px">
+    <img src="img/docker.png" width="70px">
+</div>
+
+### 📱 Rede Sociais:
+
+<a href="https://www.linkedin.com/in/rafael-henrique-soares-de-freitas-2a667a23a/" title="Linkedin | Rafael Henrique">
+    <img src="img/linkedin.png" width="40px">
+</a>
 
 ![Snake animation](https://github.com/soaresgg10/soaresgg10/blob/output/github-contribution-grid-snake.svg)
 
