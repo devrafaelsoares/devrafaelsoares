@@ -41,7 +41,4 @@
         <img src="img/linkedin.png" width="40px">
     </a>
 </div>
-
-![snake gif](https://github.com/SOARESGG10/SOARESGG10/blob/output/github-contribution-grid-snake.gif)
-
 </body>
