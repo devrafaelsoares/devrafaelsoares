@@ -1,7 +1,6 @@
 <body>
 
 <img src="img/header.png">
-    &nbsp;
 
 <h1>Hello guys 👋​, I'm Rafael</h1>
 
