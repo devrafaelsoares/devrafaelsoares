@@ -3,7 +3,7 @@
 
 ### 👨🏽‍💻 Sobre mim:
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresgg10&layout=compact&theme=github_dark">
+<img align="right" style="border-radius: 30px;" src="profile-3d-contrib/profile-night-rainbow.svg" width="550px">
 
 💻 | _Estudante de Análise e Desenvolvimento de Sistema_.
 
