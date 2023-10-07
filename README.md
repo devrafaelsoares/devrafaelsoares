@@ -3,8 +3,6 @@
 
 ### 👨🏽‍💻 Sobre mim:
 
-<img align="right" style="border-radius: 30px;" src="profile-3d-contrib/profile-night-rainbow.svg" width="550px">
-
 💻 | _Estudante de Análise e Desenvolvimento de Sistema_.
 
 🧢 | `console.log('Apreciador de códigos.')`
@@ -41,4 +39,8 @@
         <img src="img/linkedin.png" width="40px">
     </a>
 </div>
+
+### 🗓️ Contribuições:
+
+<img style="border-radius: 30px;" src="profile-3d-contrib/profile-night-rainbow.svg">    
 </body>
