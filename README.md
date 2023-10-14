@@ -46,4 +46,8 @@
 ### 🗓️ Contribuições:
 
 <img style="border-radius: 30px;" src="profile-3d-contrib/profile-night-rainbow.svg">    
+
+### 🏆 Troféus (Github): 
+
+<img src="https://github-profile-trophy.vercel.app/?username=devrafaelsoares">
 </body>
