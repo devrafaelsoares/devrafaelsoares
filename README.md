@@ -12,7 +12,7 @@
 
 🗿 | A persistência é o caminho do êxito.
 
-### 💡 Habilidades técnicas:
+### 💡 Habilidades:
 
 ![Typescript Badge][typescript-badge]
 ![React Badge][react-badge]
@@ -28,11 +28,13 @@
 
 ### 🗓️ Contribuições:
 
-<img style="border-radius: 30px;" src="profile-3d-contrib/profile-night-rainbow.svg">
+![profile-3d-contrib]
 
-### 🏆 Troféus (Github):
+### 🏆 Troféus:
 
-<img src="https://github-profile-trophy.vercel.app/?username=devrafaelsoares">
+![profile-trophy]
+
+<!-- Links -->
 
 [walpapper]: img/header.png
 [typescript-badge]: https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript
@@ -43,4 +45,6 @@
 [docker-badge]: https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker
 [tailwindcss-badge]: https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss
 [linkedin-badge]: https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=linkedin&logoColor=%230077b3
+[profile-3d-contrib]: profile-3d-contrib/profile-night-rainbow.svg
+[profile-trophy]: https://github-profile-trophy.vercel.app/?username=devrafaelsoares
 [linkedin-profile]: https://www.linkedin.com/in/rafael-henrique-soares-de-freitas-2a667a23a/
