@@ -1,12 +1,10 @@
-<body>
+![Walpaper][walpapper]
 
-<img src="img/header.png">
-
-<h1>Hello guys 👋​, I'm Rafael</h1>
+# Hello guys 👋​, I'm Rafael
 
 ### 👨🏽‍💻 Sobre mim:
 
-💻 | _Estudante de Análise e Desenvolvimento de Sistema_.
+💻 | _Analista e Desenvolvimento de Sistemas_.
 
 🧢 | `console.log('Apreciador de códigos.')`
 
@@ -16,38 +14,33 @@
 
 ### 💡 Habilidades técnicas:
 
-<div style="display:flex; gap:1.5em; align-items:center;">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="img/typescript.png" style="margin: 0 20px; width:40px">
-    &nbsp;&nbsp;&nbsp;
-    <img src="img/postgresql.png" width="40px">
-    &nbsp;&nbsp;&nbsp;
-    <img src="img/mysql.png" width="40px">
-    &nbsp;&nbsp;&nbsp;
-    <img src="img/java.png" width="40px">
-    &nbsp;&nbsp;&nbsp;
-    <img src="img/node-js.png" width="40px">
-    &nbsp;&nbsp;&nbsp;
-    <img src="img/linux.png" width="40px">
-    &nbsp;&nbsp;&nbsp;
-    <img src="img/docker.png" width="70px">
-    &nbsp;&nbsp;&nbsp;
-</div>
+![Typescript Badge][typescript-badge]
+![React Badge][react-badge]
+![NodeJs Badge][node-js-badge]
+![Java Badge][java-badge]
+![PostgreSQL Badge][postgresql-badge]
+![Docker Badge][docker-badge]
+![TailwindCSS][tailwindcss-badge]
 
 ### 📱 Redes Sociais:
 
-<div>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/rafael-henrique-soares-de-freitas-2a667a23a/" title="Linkedin | Rafael Henrique">
-        <img src="img/linkedin.png" width="40px">
-    </a>
-</div>
+[![Linkedin][linkedin-badge]][linkedin-profile]
 
 ### 🗓️ Contribuições:
 
-<img style="border-radius: 30px;" src="profile-3d-contrib/profile-night-rainbow.svg">    
+<img style="border-radius: 30px;" src="profile-3d-contrib/profile-night-rainbow.svg">
 
-### 🏆 Troféus (Github): 
+### 🏆 Troféus (Github):
 
 <img src="https://github-profile-trophy.vercel.app/?username=devrafaelsoares">
-</body>
+
+[walpapper]: img/header.png
+[typescript-badge]: https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript
+[react-badge]: https://img.shields.io/badge/-React-333333?style=flat&logo=react
+[node-js-badge]: https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js
+[java-badge]: https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=orange
+[postgresql-badge]: https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql
+[docker-badge]: https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker
+[tailwindcss-badge]: https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss
+[linkedin-badge]: https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=linkedin&logoColor=%230077b3
+[linkedin-profile]: https://www.linkedin.com/in/rafael-henrique-soares-de-freitas-2a667a23a/
