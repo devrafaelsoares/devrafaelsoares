@@ -4,7 +4,7 @@
 
 ### 👨🏽‍💻 Sobre mim:
 
-💻 | _Analista e Desenvolvimento de Sistemas_.
+💻 | _Analista e Desenvolvedor de Sistemas_.
 
 🧢 | `console.log('Apreciador de códigos.')`
 
