@@ -54,6 +54,5 @@
 [docker-badge]: https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker
 [tailwindcss-badge]: https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss
 [linkedin-badge]: https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=linkedin&logoColor=%230077b3
-[profile-3d-contrib]: profile-3d-contrib/profile-night-rainbow.svg
 [profile-trophy]: https://github-profile-trophy.vercel.app/?username=devrafaelsoares
 [linkedin-profile]: https://www.linkedin.com/in/rafael-henrique-soares-de-freitas-2a667a23a/
