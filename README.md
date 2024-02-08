@@ -26,7 +26,7 @@
 
 [![Linkedin][linkedin-badge]][linkedin-profile]
 
-### 🚀 Statistics
+### 🚀 Statistics:
 
 | ![Github Profile Summary Cards Stats][github-profile-summary-cards-stats] | ![Github Profile Summary Cards Repos per Language][github-profile-summary-cards-repos-per-language] | ![Github Profile Summary Cards Most Commit Language][github-profile-summary-cards-most-commit-language] |
 | :-----------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
