@@ -35,3 +35,11 @@ I turn complex problems into clean, robust, and maintainable systems.
 ![Top Languages](https://github-readme-stats-wheat-one-23.vercel.app/api/top-langs/?username=devrafaelsoares&layout=compact&hide_border=true&title_color=24292f&text_color=57606a&bg_color=ffffff)
 
 </details>
+
+---
+
+**Projetos em destaque**
+
+- [url-shortener](https://github.com/devrafaelsoares/url-shortener) — Backend de encurtador de links com TypeScript
+- [spring-app-auth](https://github.com/devrafaelsoares/spring-app-auth) — Autenticação JWT com Spring Security
+- [store-api-restful](https://github.com/devrafaelsoares/store-api-restful) — API REST de e-commerce com Java, Redis e PostgreSQL
