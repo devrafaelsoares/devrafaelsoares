@@ -8,7 +8,7 @@ Meu trabalho é transformar problemas complexos em sistemas limpos, robustos e f
 
 **Stack principal**
 
-TypeScript · React · Node.js · Java · Spring Boot · PostgreSQL · Docker
+TypeScript · React · Node.js · Java · Spring Boot
 
 ---
 
