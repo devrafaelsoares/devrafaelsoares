@@ -1,8 +1,8 @@
 # Rafael Henrique
 
-Analista e Desenvolvedor de Sistemas com foco em arquitetura de software, boas práticas de engenharia e construção de soluções escaláveis — do banco de dados ao frontend.
+Systems Analyst and Developer focused on software architecture, engineering best practices, and scalable solutions — from backend services to user interfaces.
 
-Meu trabalho é transformar problemas complexos em sistemas limpos, robustos e fáceis de manter.
+I turn complex problems into clean, robust, and maintainable systems.
 
 ---
 
