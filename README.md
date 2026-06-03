@@ -43,3 +43,5 @@ I turn complex problems into clean, robust, and maintainable systems.
 - [url-shortener](https://github.com/devrafaelsoares/url-shortener) — Backend de encurtador de links com TypeScript
 - [spring-app-auth](https://github.com/devrafaelsoares/spring-app-auth) — Autenticação JWT com Spring Security
 - [store-api-restful](https://github.com/devrafaelsoares/store-api-restful) — API REST de e-commerce com Java, Redis e PostgreSQL
+
+<!-- updated -->
