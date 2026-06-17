@@ -15,6 +15,8 @@ I turn complex problems into clean, robust, and maintainable systems.
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
@@ -35,6 +37,12 @@ I turn complex problems into clean, robust, and maintainable systems.
 ![devrafaelsoares's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devrafaelsoares&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 </details>
+
+🔭 **Atualmente estudando**
+
+- Programação de sistemas com Rust
+- Algoritmos e estruturas de dados em C++
+- Arquitetura de microsserviços com gRPC
 
 ---
 
