@@ -52,4 +52,5 @@ I turn complex problems into clean, robust, and maintainable systems.
 - [spring-app-auth](https://github.com/devrafaelsoares/spring-app-auth) — Autenticação JWT com Spring Security
 - [store-api-restful](https://github.com/devrafaelsoares/store-api-restful) — API REST de e-commerce com Java, Redis e PostgreSQL
 
-<!-- updated -->
+<!-- Last updated: 2026-06-21 -->
+*Última atualização: 21 de Junho de 2026*
